@@ -1,0 +1,27 @@
+{
+  "name": "advent-api",
+  "version": "0.0.1",
+  "description": "Advent of code API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcticZeroo/advent-api.git"
+  },
+  "author": "spencer@frozor.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArcticZeroo/advent-api/issues"
+  },
+  "homepage": "https://github.com/ArcticZeroo/advent-api#readme",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.10",
+    "typescript": "^4.1.2"
+  }
+}
